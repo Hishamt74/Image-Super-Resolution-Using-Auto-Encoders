@@ -10,12 +10,12 @@ This project implements an **Image Super-Resolution** model using **CNN-based Au
 - Implements **OpenCV & Matplotlib** for visualization.
 ## Dependencies
 Ensure you have the following installed:
--numpy
--matplotlib
--tensorflow
--keras
--opencv-python
--scikit-image
+- numpy
+- matplotlib
+- tensorflow
+- keras
+- opencv-python
+- scikit-image
 ## Model Architecture
 The model consists of:
 1. **Encoder:** Extracts important features from the low-resolution image.
