@@ -1,0 +1,14 @@
+tensorflow
+tensorflow-hub
+opencv-python 
+numpy
+matplotlib
+fastapi[standard]
+sqlalchemy
+psycopg2
+psycopg-binary
+sqlmodel
+python-dotenv
+pydantic-settings
+tensorflow.keras
+uvicorn
